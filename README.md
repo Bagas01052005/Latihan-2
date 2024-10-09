@@ -9,4 +9,3 @@
 
 # Kode Input Latihan 2
 ![gambar](Screenshot/KodeInputLatihan2.png)
-   
