@@ -9,8 +9,6 @@
 
 # Input Code Latihan 2
 
-
-
 public class Person {
     private String nama;
     private String jenisKelamin; 
@@ -59,4 +57,6 @@ public class Person {
         System.out.println("Umur Riko: " + Riko.getUmur());
     }
 }
+
+
 
