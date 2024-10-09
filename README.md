@@ -8,4 +8,5 @@
 ![gambar](Screenshot/SoalLatihan3.png)
 
 # Kode Input Latihan 2
+![gambar](Screenshot/KodeInputLatihan2.png)
    
