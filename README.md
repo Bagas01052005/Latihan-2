@@ -9,3 +9,12 @@
 
 # Kode Input Latihan 2
 ![gambar](Screenshot/KodeInputLatihan2.png)
+
+# Output Latihan 2
+![gambar](Screenshot/OutputLatihan2.png)
+
+# Kode Input Latihan 3
+![gambar](Screenshot/KodeInputLatihan3.png)
+
+# Output Latihan 3
+![gambar](Screenshot/OutputLatihan3.png)
