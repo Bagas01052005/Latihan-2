@@ -56,5 +56,3 @@
         System.out.println("Umur Riko: " + Riko.getUmur());
     }
 }
-
-  
