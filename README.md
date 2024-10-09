@@ -1,4 +1,4 @@
-# Latihan-2
+# Tugas-2
 
 |Nama|NIM|Kelas|Mata Kuliah|
 |----|---|-----|------|
