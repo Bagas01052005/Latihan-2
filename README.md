@@ -9,7 +9,7 @@
 
 # Input Code Latihan 2
 
-public class Person {
+  public class Person {
     private String nama;
     private String jenisKelamin; 
     private int umur;
