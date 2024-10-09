@@ -5,3 +5,4 @@
 |**Bagas Prihantoro Putra**|**312310599**|**TI.23.A6**|**Pemrograman Orientasi Objek**|
 
 ![gambar](Screenshot/SoalLatihan2.png)
+![gambar](Screenshot/SoalLatihan3.png)
