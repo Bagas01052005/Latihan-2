@@ -7,7 +7,7 @@
 ![gambar](Screenshot/SoalLatihan2.png)
 ![gambar](Screenshot/SoalLatihan3.png)
 
-# Input Code Latihan 2
+# Kode Input Latihan 2
 
 
   public class Person {
